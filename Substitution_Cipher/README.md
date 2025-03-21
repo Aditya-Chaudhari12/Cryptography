@@ -1,3 +1,4 @@
+# Caesar/Substitution Cipher
 ![image](https://github.com/user-attachments/assets/f5e57510-3980-4a22-ae54-57d53094f1e5)
 
 The Caesar Cipher is a simple and classical substitution cipher where each letter in a message is shifted by a fixed number of places in the alphabet.
@@ -11,6 +12,7 @@ Decryption Process: The reverse operation is applied, shifting letters backward 
 Key: The shift value (e.g., 3 in Caesar’s case) serves as the cipher’s key, which both sender and receiver must know.
 
 Security:
-•  Extremely weak by modern standards.
-•  Can be broken easily using brute force (trying all 25 possible shifts).
-•  Vulnerable to frequency analysis, as letter patterns remain unchanged.
+
+•  Extremely weak by modern standards.  
+•  Can be broken easily using brute force (trying all 25 possible shifts).  
+•  Vulnerable to frequency analysis, as letter patterns remain unchanged.  
