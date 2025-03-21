@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f5e57510-3980-4a22-ae54-57d53094f1e5)
+
 The Caesar Cipher is a simple and classical substitution cipher where each letter in a message is shifted by a fixed number of places in the alphabet.
 
 Named after Julius Caesar, who used it to encrypt military messages by shifting letters by three places.
